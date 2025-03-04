@@ -7,3 +7,6 @@
 [submodule "search"]
 	path = search
 	url = https://github.com/mane-23G/search.git
+[submodule "redeacted"]
+	path = redeacted
+	url = https://github.com/mane-23G/redeacted.git
