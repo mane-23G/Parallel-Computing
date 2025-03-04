@@ -1,0 +1,3 @@
+[submodule "estimatelog"]
+	path = estimatelog
+	url = https://github.com/mane-23G/estimatelog.git
