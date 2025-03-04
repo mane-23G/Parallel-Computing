@@ -4,3 +4,6 @@
 [submodule "steady"]
 	path = steady
 	url = https://github.com/mane-23G/steady.git
+[submodule "search"]
+	path = search
+	url = https://github.com/mane-23G/search.git
