@@ -1,3 +1,6 @@
 [submodule "estimatelog"]
 	path = estimatelog
 	url = https://github.com/mane-23G/estimatelog.git
+[submodule "steady"]
+	path = steady
+	url = https://github.com/mane-23G/steady.git
